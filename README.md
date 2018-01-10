@@ -1,5 +1,4 @@
 # CronoTermoPi
-Comandare e programmare caldaia e splitter con RaspberryPi
 Programma per la gestione di un impianto di riscaldamento e di condizionamento 
 con monitoraggio e gestione via Blynk su Android.
 Il programma è sviluppato principalmente per esigenze personali per una villa al
