@@ -32,7 +32,7 @@ try:
 	while True:
             # pdb.set_trace()
 
-            BLYNK_AUTH = 'caabc5333a8d4b828dc20e4261bb7a83'
+            BLYNK_AUTH = 'Token'
             # initialize Blynk
             blynk = BlynkLib.Blynk(BLYNK_AUTH)
 
