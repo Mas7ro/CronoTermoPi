@@ -1,6 +1,7 @@
 # CronoTermoPi
-Programma per la gestione di un impianto di riscaldamento e di condizionamento 
-con monitoraggio e gestione via Blynk su Android.
+Programma in Python (sviluppato su Raspberry Pi zero w) per la gestione di un impianto
+di riscaldamento e di condizionamento con monitoraggio e gestione via Blynk su Android.
+
 Il programma è sviluppato principalmente per esigenze personali per una villa al
 mare. D'inverno deve accendere la caldaia e riscaldare la casa, e, all'occorrenza, 
 accendere il deumidificatore, per un paio di ore a settimana, e devo poter 
